@@ -6,8 +6,8 @@ import (
 
 	"github.com/spf13/viper"
 
+	"github.com/pltanton/yags-timer/core"
 	"github.com/pltanton/yags/plugins"
-	"github.com/pltanton/yags/plugins/timer/core"
 )
 
 // New creates timer plugin with function builded from configured param
